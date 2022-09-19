@@ -1,0 +1,21 @@
+body {
+    font-family: Corbel;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+    font-size: 65px;
+}
+
+#Bandeirantes {
+    background-color: lavender;
+}
+
+#Empurra {
+    background-color: #edede9;
+}
+
+.cume {
+    background-color: #ffd6ff;
+}
